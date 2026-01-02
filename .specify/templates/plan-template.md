@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- Spec-Driven Development: Implementation must strictly follow feature specification
+- Python Console Application: Architecture must support command-line interface
+- In-Memory Storage: No file I/O or database dependencies allowed
+- Clean Architecture: Clear separation between business logic, application logic, and presentation
+- Specification Compliance: Implementation must only include explicitly specified features
 
 ## Project Structure
 

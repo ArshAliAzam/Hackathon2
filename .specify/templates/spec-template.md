@@ -1,9 +1,18 @@
 # Feature Specification: [FEATURE NAME]
 
-**Feature Branch**: `[###-feature-name]`  
-**Created**: [DATE]  
-**Status**: Draft  
+**Feature Branch**: `[###-feature-name]`
+**Created**: [DATE]
+**Status**: Draft
 **Input**: User description: "$ARGUMENTS"
+
+## Constitution Compliance
+
+This specification must comply with the project constitution principles:
+- Spec-Driven Development: All features must be explicitly defined in specifications
+- Python Console Application: Features must work within console interface
+- In-Memory Storage: No file/database persistence allowed
+- Clean Architecture: Clear separation of concerns required
+- Specification Compliance: Only implement features explicitly mentioned
 
 ## User Scenarios & Testing *(mandatory)*
 

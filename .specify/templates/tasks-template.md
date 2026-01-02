@@ -18,6 +18,15 @@ description: "Task list template for feature implementation"
 - **[Story]**: Which user story this task belongs to (e.g., US1, US2, US3)
 - Include exact file paths in descriptions
 
+## Constitution Compliance Requirements
+
+All tasks must adhere to the following constitutional principles:
+- Spec-Driven Development: All code must be generated based on explicit specifications
+- Python Console Application: All features must work within command-line interface
+- In-Memory Storage: No file I/O or database operations allowed
+- Clean Architecture: Maintain clear separation of concerns
+- Specification Compliance: Only implement features explicitly mentioned in specs
+
 ## Path Conventions
 
 - **Single project**: `src/`, `tests/` at repository root
